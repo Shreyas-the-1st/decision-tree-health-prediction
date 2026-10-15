@@ -1,3 +1,2 @@
-The following two dependencies are required for the proper functioning of the provided code:
-1. pandas
-2. scikit-learn
+pandas
+scikit-learn
